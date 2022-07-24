@@ -1,3 +1,3 @@
 # *Estudo do livro "Introdução à linguagem Python" - José Algusto N. G. Manzano - Novatec*
 
-![Introdução à linguagem Python](/images/image1.jpg)
+<img src="/images/image1.jpg" width="220" height="80" alt="Introdução à linguagem Python" />
