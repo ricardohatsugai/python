@@ -161,3 +161,5 @@ cython_debug/
 
 # Ambiente virtual Python
 /ambientePython311
+
+.idea/
